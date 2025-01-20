@@ -19,15 +19,14 @@ This repository contains a comprehensive analysis of pizza sales trends for the 
 ## 🗂️ Repository Structure
 
 Pizza-Sales-Analysis-2015/
-├── README.md                     # Project overview and guide
-├── Report/
-│   ├── Pizza_Sales_Analysis_Report.pdf  # Full project report
-├── SQL/
-│   ├── Queries.sql               # SQL scripts used in the project
-├── Data/
-│   ├── Pizza_Sales_Dataset.csv   # Dataset used for the analysis (if permitted)
-└── LICENSE                       # Optional license file
-
+├── README.md                     # Project overview and guide<br>
+├── Report/<br>
+│   ├── Pizza_Sales_Analysis_Report.pdf  # Full project report<br>
+├── SQL/<br>
+│   ├── Queries.sql               # SQL scripts used in the project<br>
+├── Data/<br>
+│   ├── Pizza_Sales_Dataset.csv   # Dataset used for the analysis (if permitted)<br>
+└── LICENSE                       # Optional license file <br>
 ## 🚀 Tools and Technologies
 
 - **SQL (MySQL)**: Querying data and extracting insights.
